@@ -1,4 +1,4 @@
-# 😊 Détection des Émotions Faciales en Temps Réel — 4 Modèles ML
+# 😊 Détection des Émotions Faciales en Temps Réel — 4 Modèles ML-DL
 
 Système de reconnaissance d'émotions faciales en temps réel comparant 4 architectures de Machine Learning : **InceptionV3**, **CNN V2**, **SVM** et **DenseNet**. Le projet inclut une interface web interactive avec détection via caméra.
 <img width="349" height="221" alt="Screenshot 2026-05-04 213659" src="https://github.com/user-attachments/assets/68665922-92d7-44f7-b818-3ae36548eb6f" />

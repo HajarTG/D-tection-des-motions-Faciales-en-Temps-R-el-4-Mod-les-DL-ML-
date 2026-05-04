@@ -20,7 +20,7 @@ Système de reconnaissance d'émotions faciales en temps réel comparant 4 archi
 ##  Architecture du Pipeline
 
 ┌─────────────┐     ┌──────────────┐     ┌─────────────┐     ┌─────────────┐
-│   RAF-DB    │────▶│ Prétraitement│────▶│   Modèles   │────▶│  Interface  │
+│   RAF-DB    │───▶│ Prétraitement│───▶│   Modèles   │───▶│  Interface  │
 │  Dataset    │     │ (normalisation│     │  ML/DL      │     │   Web       │
 │  15K images │     │ augmentation) │     │ 4 approches │     │ Temps réel  │
 └─────────────┘     └──────────────┘     └─────────────┘     └─────────────┘
